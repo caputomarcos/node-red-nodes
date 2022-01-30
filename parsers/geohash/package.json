@@ -3,7 +3,7 @@
     "version"       : "0.1.9",
     "description"   : "A Node-RED node to encode and decode lat,lon pairs to a geohash.",
     "dependencies"  : {
-        "ngeohash"   : "0.6.0"
+        "ngeohash"   : "0.6.3"
     },
     "repository" : {
         "type":"git",
